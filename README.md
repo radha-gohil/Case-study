@@ -56,13 +56,6 @@ Loss = CrossEntropy + λ × SparsityLoss
 
 ---
 
-## 🚀 How to Run
-
-### Open in Colab:
-https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/<your-file>.ipynb
-
----
-
 ## 📁 Files
 
 - `self_pruning_nn.ipynb` → Implementation  
